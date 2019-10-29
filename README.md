@@ -1,4 +1,9 @@
-# DS_Practice
+# Data Science_Practice
 
-Data science practice - exercises
+Exercises with comments to understand following libraries:
+ - Pandas
+ - Scikit Learn
+ - Seaborn 
+ - Matplotlib etc
+
 
